@@ -1,0 +1,4 @@
+# auxiliary files that should not be updated on remote repository
+risultati/
+.idea
+.DS_Store
